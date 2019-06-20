@@ -154,10 +154,6 @@ a:hover{
     justify-items: center;
     width: 60%;
 }
-/* .container {
-    position: relative;
-    width: 50%;
-} */
 .projectcontainer{
     width: 80%;
     padding: 0;
@@ -168,6 +164,7 @@ a:hover{
     vertical-align: middle;
 }
 .projecttext h1{
+    color: rgb(102, 204, 255);
     font-size: 50px;
 }
 .projecttext p{
